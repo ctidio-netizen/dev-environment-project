@@ -1,1 +1,1 @@
-echo "# dev-environment-project" >> README.md
+echo "# dev-environment-project" >> README.txt
